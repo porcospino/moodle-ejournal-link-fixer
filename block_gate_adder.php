@@ -62,7 +62,7 @@ and click <em>Add</em> to add the required prefixes.</p>
 <p>DOI/URL:<br /><input type="text" name="doiurl" id="doiurl" size="15" /> <input type="button" value="Add" 
 onClick="javascript:addDOI();" /></p>
 <p>Result: <input type="text" name="output" id="output" size="15" readonly="readonly" /></p>
-<p><a href="http://clt.lse.ac.uk/digital-and-information-literacy/ejournal-articles.php" target="_blank">Help on linking to e-journals</a></p>
+<p><a href="http://lti.lse.ac.uk/projects/digitalliteracy/ejournal-articles/" target="_blank">Help on linking to e-journals</a></p>
 <hr />
 <p><a href="http://www.crossref.org/SimpleTextQuery/" target="_blank">Citation-to-DOI lookup</a><br /><strong>Note:</strong> Paste the DOI returned by this lookup into the field above.</p>
 EOT;
