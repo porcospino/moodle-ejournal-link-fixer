@@ -11,7 +11,7 @@ class block_gate_adder extends block_base {
     }
 
     public function applicable_formats() {
-        return array('all' => true);
+        return array('course' => true);
     }
 
     public function get_content() {
